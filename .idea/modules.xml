@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
       <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/templatemethod/templatemethod.iml" filepath="$PROJECT_DIR$/templatemethod/templatemethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/visitor/visitor.iml" filepath="$PROJECT_DIR$/visitor/visitor.iml" />
     </modules>
   </component>
 </project>
